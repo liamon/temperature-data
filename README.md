@@ -1,6 +1,7 @@
 # temperature-data
 This was an assignment in First Year in the Programming module.
 I originally handed it up as a single file, but for GitHub I have split it into three more modular files.
+I also compiled it by the commmand line instead of Visual Studio, so I took out the line `#include "stdafx.h"`.
 
 ## Assignment Description
 >- You are to write a program that allows the user to enter temperature readings for different towns via the command line, e.g.
